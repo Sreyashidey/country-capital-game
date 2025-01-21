@@ -48,7 +48,5 @@ This is a web application that allows users to play a game where they match coun
 - Start matching countries with their capitals and track your score!
 
 ## Including Pictures
-
-```markdown
-![Game Screenshot](screenshots/1.png "Game Interface")
+![Game Screenshot](screenshots/1.png)
 
